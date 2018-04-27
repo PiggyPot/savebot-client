@@ -1,28 +1,40 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Information />
+    <Chat2 />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import Information from './components/Information.vue';
+import Chat2 from './components/Chat2.vue';
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Information,
+    Chat2
   }
 }
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,800');
+body {
+  margin: 0;
+  padding: 0;
+  color: #2B303D;
+}
+
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  display: flex;
+  height: 100vh;
+  border: 10px solid #2B303D;
+  box-sizing: border-box;
 }
 </style>

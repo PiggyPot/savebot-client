@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="30px" viewBox="0 0 37 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>chat-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chat-icon">
+            <path d="M5,2.5 C3.61928813,2.5 2.5,3.61928813 2.5,5 L2.5,25 C2.5,26.3807119 3.61928813,27.5 5,27.5 L26,27.5 C27.3807119,27.5 28.5,26.3807119 28.5,25 L28.5,16.8141021 C28.5,15.5535563 28.8177174,14.3133437 29.4237945,13.2080626 L33.2655374,6.20201317 C33.4675631,5.83358613 33.5734689,5.42018194 33.5734689,5 C33.5734689,3.61928813 32.4541808,2.5 31.0734689,2.5 L5,2.5 Z" id="Rectangle-19" stroke="#2B303D" stroke-width="5"></path>
+            <circle id="Oval-7" fill="#2B303D" cx="10.5" cy="15.5" r="2.5"></circle>
+            <circle id="Oval-7" fill="#2B303D" cx="19.5" cy="15.5" r="2.5"></circle>
+        </g>
+    </g>
+</svg>
